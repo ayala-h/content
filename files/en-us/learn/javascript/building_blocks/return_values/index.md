@@ -189,6 +189,6 @@ If there is anything you didn't understand, feel free to read through the articl
 ## See also
 
 - [Functions in-depth](/en-US/docs/Web/JavaScript/Reference/Functions) — a detailed guide covering more advanced functions-related information.
-- [Callback functions in JavaScript](https://www.impressivewebs.com/callback-functions-javascript/) — a common JavaScript pattern is to pass a function into another function _as an argument_. It is then called inside the first function. This is a little beyond the scope of this course, but worth studying before too long.
+- [Callback functions in JavaScript](https://www.programiz.com/javascript/callback) — a common JavaScript pattern is to pass a function into another function _as an argument_. It is then called inside the first function. This is a little beyond the scope of this course, but worth studying before too long.
 
 {{PreviousMenuNext("Learn/JavaScript/Building_blocks/Build_your_own_function","Learn/JavaScript/Building_blocks/Events", "Learn/JavaScript/Building_blocks")}}
